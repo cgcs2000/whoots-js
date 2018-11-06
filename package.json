@@ -1,16 +1,16 @@
 {
-  "name": "@mapbox/whoots-js",
-  "description": "Request tiles from WMS servers that support EPSG:3857",
+  "name": "@jingsam/whoots-js",
+  "description": "Request tiles from WMS servers that support CGCS2000 (EPSG:4490)",
   "version": "3.1.0",
   "main": "index.js",
   "module": "index.mjs",
   "license": "ISC",
   "author": "Bryan Housel <bryan@mapbox.com>",
-  "repository": "mapbox/whoots-js",
+  "repository": "jingsam/whoots-js",
   "keywords": [
     "WMS",
     "tiles",
-    "EPSG:3857"
+    "EPSG:4490"
   ],
   "dependencies": {},
   "devDependencies": {

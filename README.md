@@ -5,7 +5,9 @@
 
 ## whoots-js
 
-Request tiles from WMS servers that support EPSG:3857.
+> This repository is a fork of `mapbox/whoots`, but for CGCS2000.
+
+Request tiles from WMS servers that support CGCS2000 (EPSG:4490).
 
 This project is a JavaScript port of https://github.com/timwaters/whoots by Tim Waters.
 
