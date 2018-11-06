@@ -28,6 +28,7 @@
     "docs": "documentation build index.mjs --lint --github --format html --output docs/",
     "lint": "eslint index.mjs server.js test",
     "start": "node server.js",
-    "test": "npm run lint && npm run build && tap --cov test/*.js"
+    "test": "npm run lint && npm run build && tap --cov test/*.js",
+    "prepublish": "npm run build"
   }
 }
