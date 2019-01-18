@@ -1,12 +1,12 @@
 {
-  "name": "@jingsam/whoots-js",
+  "name": "@cgcs2000/whoots-js",
   "description": "Request tiles from WMS servers that support CGCS2000 (EPSG:4490)",
   "version": "3.1.0",
   "main": "index.js",
   "module": "index.mjs",
   "license": "ISC",
   "author": "Bryan Housel <bryan@mapbox.com>",
-  "repository": "jingsam/whoots-js",
+  "repository": "cgcs2000/whoots-js",
   "keywords": [
     "WMS",
     "tiles",
