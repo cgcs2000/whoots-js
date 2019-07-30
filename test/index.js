@@ -10,12 +10,12 @@ test('WhooTS', function(t) {
         var layer = 'Natural2015';
         var url = WhooTS.getURL(baseUrl, layer, 154308, 197167, 19);
         t.deepEqual(url, 'http://geodata.state.nj.us/imagerywms/Natural2015?' +
-            'bbox=-8242663.382160267,4966572.349857613,-8242586.945131982,4966648.786885899' +
+            'bbox=-74.04510498046875,-45.384521484375,-74.04441833496094,-45.38383483886719' +
             '&format=image/png' +
             '&service=WMS' +
             '&version=1.1.1' +
             '&request=GetMap' +
-            '&srs=EPSG:3857' +
+            '&srs=EPSG:4490' +
             '&width=256' +
             '&height=256' +
             '&layers=Natural2015'
@@ -25,7 +25,7 @@ test('WhooTS', function(t) {
 
     t.test('getTileBBox', function(t) {
         var bbox = WhooTS.getTileBBox(154308, 197167, 19);
-        t.deepEqual(bbox, '-8242663.382160267,4966572.349857613,-8242586.945131982,4966648.786885899');
+        t.deepEqual(bbox, '-74.04510498046875,-45.384521484375,-74.04441833496094,-45.38383483886719');
         t.end();
     });
 
