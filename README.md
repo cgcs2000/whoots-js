@@ -1,6 +1,6 @@
-[![npm version](https://badge.fury.io/js/%40mapbox%2Fwhoots-js.svg)](https://badge.fury.io/js/%40mapbox%2Fwhoots-js)
-[![Build Status](https://secure.travis-ci.org/mapbox/whoots-js.svg)](http://travis-ci.org/mapbox/whoots-js)
-[![Coverage Status](https://coveralls.io/repos/github/mapbox/whoots-js/badge.svg?branch=master)](https://coveralls.io/github/mapbox/whoots-js?branch=master)
+[![npm version](https://badge.fury.io/js/%40cgcs2000%2Fwhoots-js.svg)](https://badge.fury.io/js/%40cgcs2000%2Fwhoots-js)
+[![Build Status](https://secure.travis-ci.org/cgcs2000/whoots-js.svg)](http://travis-ci.org/cgcs2000/whoots-js)
+[![Coverage Status](https://coveralls.io/repos/github/cgcs2000/whoots-js/badge.svg?branch=cgcs2000)](https://coveralls.io/github/cgcs2000/whoots-js?branch=cgcs2000)
 
 
 ## whoots-js
