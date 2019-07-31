@@ -1,11 +1,11 @@
+> This repository is a fork of `mapbox/whoots-js`, adding support for CGCS2000.
+
 [![npm version](https://badge.fury.io/js/%40cgcs2000%2Fwhoots-js.svg)](https://badge.fury.io/js/%40cgcs2000%2Fwhoots-js)
 [![Build Status](https://secure.travis-ci.org/cgcs2000/whoots-js.svg)](http://travis-ci.org/cgcs2000/whoots-js)
 [![Coverage Status](https://coveralls.io/repos/github/cgcs2000/whoots-js/badge.svg?branch=cgcs2000)](https://coveralls.io/github/cgcs2000/whoots-js?branch=cgcs2000)
 
 
 ## whoots-js
-
-> This repository is a fork of `mapbox/whoots`, but for CGCS2000.
 
 Request tiles from WMS servers that support CGCS2000 (EPSG:4490).
 
